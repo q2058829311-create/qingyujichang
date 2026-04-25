@@ -1,6 +1,11 @@
-# qingyujichang
-轻语机场,性价比最高的机场,注册赠送2天5G流量，赠送emby
-轻语机场 - 稳定4K/8K秒开，支持ChatGPT/Gemini/Netflix，专线BGP节点
+# 轻语机场
+轻语机场,性价比最高的机场,注册赠送2天5G流量，赠送emby。
+
+
+轻语机场 - 稳定4K/8K秒开，支持ChatGPT/Gemini/Netflix，专线BGP节点。
+
+
+
 提供高性能V2Ray/SS协议，专业BGP跨境专线，解决外贸、影音及AI办公网络需求，,2026机场推荐,注册即领免费试用。
 # 轻语机场官网地址
 
